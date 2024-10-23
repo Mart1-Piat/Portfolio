@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Martin Piat
 ---
 
 This is a blank Quartz installation.
